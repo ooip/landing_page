@@ -42,7 +42,7 @@ Suppose we have a set of points with the following payload:
 
 Example:
 
-{{< code-snippet path="/documentation/headless/snippets/scroll-points/with-must-filter/" >}}
+{{< code-snippet path="/qdrant-landing/content/documentation/headless/snippets/scroll-points/with-must-filter/" >}}
 
 Filtered points would be:
 
